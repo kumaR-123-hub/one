@@ -687,7 +687,7 @@
                     <emnput id="newsletterEmail" type="email" placeholder="Enter your email" aria-label="Email address" required>
                     <button class="btn btn-primary" id="subscribeBtn">Subscribe</button>
                 </form>
-                <div id="newsletterMsg" style="margin-top:10px;font-size:14px;display:none"></div>
+                <div id="newsletterMsg" style="margin-top:10px;fontm-size:14px;display:none"></div>
             </div>
         </section>
     </main>
@@ -767,7 +767,7 @@
             {
                 id: 2,
                 title: 'MacBook Pro 14"',
-                price: 1999,
+                price: 199,
                 rating: 4,
                 reviews: 86,
                 img: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80',
